@@ -318,3 +318,5 @@ sum value (SUM),
 highest value (MAX) and lowest value (MIN)
 in the groups are used.
 */
+
+ SELECT <column_name> FROM <table_name> GROUP BY <column_name>
